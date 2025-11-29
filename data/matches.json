@@ -1,0 +1,64 @@
+{
+    "matches": [
+        {
+            "id": 1,
+            "league": "1a",
+            "homeTeam": "Real Madrid",
+            "awayTeam": "Getafe",
+            "homeScore": 2,
+            "awayScore": 0,
+            "status": "FINISHED",
+            "date": "2025-12-01"
+        },
+        {
+            "id": 2,
+            "league": "1a",
+            "homeTeam": "Barcelona",
+            "awayTeam": "Las Palmas",
+            "homeScore": 1,
+            "awayScore": 2,
+            "status": "FINISHED",
+            "date": "2025-11-30"
+        },
+        {
+            "id": 3,
+            "league": "champions",
+            "homeTeam": "Liverpool",
+            "awayTeam": "Real Madrid",
+            "homeScore": 2,
+            "awayScore": 0,
+            "status": "FINISHED",
+            "date": "2025-11-27"
+        },
+        {
+            "id": 4,
+            "league": "champions",
+            "homeTeam": "Bayern Munich",
+            "awayTeam": "PSG",
+            "homeScore": 1,
+            "awayScore": 0,
+            "status": "FINISHED",
+            "date": "2025-11-26"
+        },
+        {
+            "id": 5,
+            "league": "champions",
+            "homeTeam": "Barcelona",
+            "awayTeam": "Brest",
+            "homeScore": 3,
+            "awayScore": 0,
+            "status": "FINISHED",
+            "date": "2025-11-26"
+        },
+        {
+            "id": 6,
+            "league": "champions",
+            "homeTeam": "Atlético Madrid",
+            "awayTeam": "Sparta Praha",
+            "homeScore": 6,
+            "awayScore": 0,
+            "status": "FINISHED",
+            "date": "2025-11-26"
+        }
+    ]
+}
