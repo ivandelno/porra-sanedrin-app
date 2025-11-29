@@ -470,7 +470,33 @@ const TEAM_MAPPING = {
     "Córdoba CF": "Córdoba",
     "Málaga CF": "Málaga",
     "CD Castellón": "Castellón",
-    "RC Deportivo de La Coruña": "Deportivo"
+    "RC Deportivo de La Coruña": "Deportivo",
+
+    // Champions League (common variations)
+    "Liverpool FC": "Liverpool",
+    "Arsenal FC": "Arsenal",
+    "FC Internazionale Milano": "Inter",
+    "Inter Milan": "Inter",
+    "Club Atlético de Madrid": "Atlético Madrid",
+    "Atlético de Madrid": "Atlético Madrid",
+    "FC Bayern München": "Bayern",
+    "Bayern Munich": "Bayern",
+    "Paris Saint-Germain": "PSG",
+    "Borussia Dortmund": "Dortmund",
+    "Juventus FC": "Juventus",
+    "Manchester City FC": "Man. City",
+    "Bayer 04 Leverkusen": "Leverkusen",
+    "SL Benfica": "Benfica",
+    "Atalanta BC": "Atalanta",
+    "Stade Brestois 29": "Brest",
+    "Aston Villa FC": "Aston Villa",
+    "Celtic FC": "Celtic",
+    "AS Monaco FC": "Monaco",
+    "Feyenoord Rotterdam": "Feyenoord",
+    "Sporting Clube de Portugal": "Sporting CP",
+    "Lille OSC": "Lille",
+    "AC Milan": "AC Milan",
+    "Real Madrid CF": "Real Madrid"
 };
 
 async function updateLeague(url, leagueId, btnId) {
